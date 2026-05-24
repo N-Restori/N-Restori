@@ -1,6 +1,6 @@
 # Olá, eu sou a Natalia Restori! 🌌
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco e obsessão em **Cybersecurity**. Atualmente, atuo como Sommelier de Vinhos em uma importadora e estou construindo uma ponte sólida para migrar definitivamente para o universo da tecnologia. Meu objetivo é levar a precisão, a sofisticação e o olhar analítico da sommelierie para a criação de sistemas e infraestruturas blindadas.
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco e obsessão em **Cybersecurity**. Atualmente, atuo como Sommelier de Vinhos em uma importadora e estou construindo uma ponte sólida para migrar definitivamente para o universo da tecnologia. Meu objetivo é levar a precisão e o olhar analítico da sommelierie para a criação de sistemas e infraestruturas blindadas.
 
 ---
 
@@ -22,7 +22,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco e obs
 ### 💬 Vamos Conversar?
 * 💬 **Pergunte-me sobre:** Transição de carreira, os bastidores de um cofre criptográfico em Java, análise sensorial e como as lógicas de vinhos e códigos se cruzam.
 * 📫 **Como me encontrar:** Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/natalia-restori/) ✨
-* ⚡ **Fun fact:** Tenho 3 gatos, uma tatuagem de gato na mão, uso 1 pin para cada gato no crachá do trabalho e tenho um cachorro que tem certeza absoluta de que também é um gato. Minha teoria é que gatos são os hackers originais da natureza: operam em silêncio, testam os limites físicos de qualquer perímetro e encontram vulnerabilidades em qualquer caixa fechada. Meu cachorro só escolheu o lado mais seguro da força. 🐈‍⬛🔮
+* ⚡ **Fun fact:** Tenho 3 gatos, uma tatuagem de gato na mão, uso 1 pin para cada gato no crachá do trabalho e tenho um cachorro que tem certeza absoluta de que também é um gato. Minha teoria é que gatos são os hackers originais da natureza: operam em silêncio, testam os limites físicos de qualquer perímetro e encontram vulnerabilidades em qualquer caixa fechada. Já o meu cachorro é o verdadeiro bug do sistema: roda um script de gato em um hardware canino. 🐈‍⬛🐶
 
 ---
 
