@@ -1,4 +1,4 @@
-# Olá, eu sou a Natalia Restori! 🌌
+# Olá, eu sou Natalia Restori! 🌌
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** com foco e obsessão em **Cybersecurity**. Atualmente, atuo como Sommelier de Vinhos em uma importadora e estou construindo uma ponte sólida para migrar definitivamente para o universo da tecnologia. Meu objetivo é levar a precisão e o olhar analítico da sommelierie para a criação de sistemas e infraestruturas blindadas.
 
